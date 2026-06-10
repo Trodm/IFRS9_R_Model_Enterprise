@@ -1,0 +1,11 @@
+product_type,institution_type,secured_flag,default_lgd,default_ccf,minimum_pd,maximum_pd
+Mortgage,Bank,1,0.25,0.00,0.0001,0.9999
+Term Loan,Bank,0,0.45,0.00,0.0001,0.9999
+SME Loan,Bank,1,0.55,0.20,0.0001,0.9999
+Credit Card,Bank,0,0.80,0.75,0.0001,0.9999
+Group Loan,Microfinance Institution,0,0.70,0.30,0.0001,0.9999
+Payroll Loan,Microfinance Institution,0,0.60,0.20,0.0001,0.9999
+Premium Receivable,Insurer,0,0.50,0.00,0.0001,0.9999
+Reinsurance Receivable,Insurer,0,0.35,0.00,0.0001,0.9999
+Vehicle Finance,Credit Provider,1,0.40,0.20,0.0001,0.9999
+Store Card,Credit Provider,0,0.75,0.65,0.0001,0.9999

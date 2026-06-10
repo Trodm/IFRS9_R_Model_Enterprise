@@ -1,0 +1,5 @@
+institution_type,product_scope,stage2_dpd,stage3_dpd,default_definition,ccf_default,reporting_currency
+Bank,"Mortgages,Term Loans,SME Loans,Credit Cards",30,90,"90+ DPD or unlikely to pay",0.75,USD
+Microfinance Institution,"Group Loans,Payroll Loans,SME Micro Loans",15,60,"60+ DPD or restructuring/default event",0.50,USD
+Insurer,"Premium Receivables,Reinsurance Receivables,Loans to Policyholders",30,90,"90+ DPD or objective evidence of impairment",0.25,USD
+Credit Provider,"Retail Credit,Vehicle Finance,Consumer Loans,Store Cards",30,90,"90+ DPD or legal/recovery status",0.65,USD

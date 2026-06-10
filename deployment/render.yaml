@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ifrs9-r-model-api
+    env: docker
+    dockerfilePath: ./deployment/Dockerfile
+    plan: starter
+    autoDeploy: true
